@@ -64,8 +64,8 @@
 								<nav>
 									<ul>
 									<li><a href="#about" title="About Me">About Me</a></li>
+									<li><a href="#work" title="Experience">Experience</a></li>
 									<li><a href="#achievement" title="Achievement">Achievement</a></li>
-									<li><a href="#work" title="Download">Download</a></li>
 									<li><a href="#contact" title="Contact">Contact</a></li>
 									</ul>
 								</nav>
